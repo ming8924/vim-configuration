@@ -1,4 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/home/ming/work/caffe/examples/feature_extraction'
 let g:netrw_dirhist_2='/home/ming/work/caffe/examples'
+let g:netrw_dirhist_3='/home/ming/work/rcnn/external/caffe/include/caffe/util'
+let g:netrw_dirhist_4='/home/ming/work/fast-rcnn'
+let g:netrw_dirhist_5='/home/ming/work/person-identification/.git/info'
+let g:netrw_dirhist_6='/home/ming/work/person-identification/pipa-splits'
+let g:netrw_dirhist_7='/home/ming/work/person-identification'
+let g:netrw_dirhist_8='/home/ming/work/person-identification/pipa-splits'
